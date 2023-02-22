@@ -1,0 +1,10 @@
+
+.button {
+    border-radius: 4px;
+    text-transform: capitalize;
+}
+
+.button:not(:last-child) {
+    margin-right: 15px;
+}
+
